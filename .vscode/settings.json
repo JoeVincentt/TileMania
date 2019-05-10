@@ -52,5 +52,7 @@
         "ProjectSettings/":true,
         "temp/":true,
         "Temp/":true
-    }
+    },
+    "editor.fontSize": 17,
+    "editor.tabSize": 6
 }

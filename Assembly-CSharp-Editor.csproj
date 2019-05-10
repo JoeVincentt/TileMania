@@ -66,6 +66,9 @@
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/mac/Programming/Unity 2D/TileMania/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Cinemachine">
+ <HintPath>/Users/mac/Programming/Unity 2D/TileMania/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/mac/Programming/Unity 2D/TileMania/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
@@ -77,6 +80,9 @@
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
  <HintPath>/Users/mac/Programming/Unity 2D/TileMania/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="com.unity.cinemachine.editor">
+ <HintPath>/Users/mac/Programming/Unity 2D/TileMania/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
  <HintPath>/Users/mac/Programming/Unity 2D/TileMania/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
